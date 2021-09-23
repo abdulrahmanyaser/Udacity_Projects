@@ -1,5 +1,5 @@
 
-# DVD RENTAL with sql .
+# DVD RENTAL with T-SQL .
 
 ## the project description :In this project, I will query the Sakila DVD Rental database. The Sakila Database holds information about a company that rents movie DVDs. For this project, I will be querying the database to gain an understanding of the customer base, and answer these 4 questions :  
 ### What is the most watched movie category ?
